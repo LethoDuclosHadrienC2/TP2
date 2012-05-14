@@ -1,13 +1,18 @@
 #container
 {
 	margin: 0 30px;
+<<<<<<< HEAD
 	background: #fff;
 	cursor:pointer;
 	background-color:grey;
+=======
+	background: #778899;
+>>>>>>> branche1
 }
 
 #header
 {
+<<<<<<< HEAD
 	color:grey;
 	background:black;
 	padding: 20px;
@@ -15,6 +20,12 @@
 	text-align:center;
 	font-size:xx-large;
 }	font-style:italic;
+=======
+	background: #778899;
+	padding: 50px;
+	text-align: center;
+}
+>>>>>>> branche1
 
 #header h1 { margin: 0; }
 
@@ -56,21 +67,30 @@
 	margin: 20px;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
-	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	-webkit-box-shadow: 6px 6px 6px #87CEFA;
+	box-shadow: 6px 6px 6px #87CEFA;
+	background:#66CDAA;	
+	background-image: -webkit-gradient(linear, left top, right top, from(#48D1CC), to(#87CEFA));
+	background-image: -webkit-linear-gradient(left, #48D1CC, #87CEFA);
+	background-image: linear-gradient(left, #48D1CC, #87CEFA);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+<<<<<<< HEAD
 	background-color:black;
 	color:white;
+=======
+	text-align: justify;
+>>>>>>> branche1
 }
 
 #edito h2
 {
+<<<<<<< HEAD
 	color:white;
+=======
+	color: #000000;
+>>>>>>> branche1
 	font-size: 160%;
 	margin: 0 0 .5em;
 	font-style:oblique;
@@ -84,23 +104,29 @@
 	width: 40%;
 	padding: 20px;
 	margin: 20px;
-	-webkit-border-radius: 18px;
-	border-radius: 18px;
-	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
+	background:#66CDAA;		
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	-webkit-box-shadow: 6px 6px 6px #87CEFA;
+	box-shadow:6px 6px 6px #87CEFA;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	text-align: justify;
 }
 
 #footer
 {	color:white;
 	font-size:x-small;
 	clear: both;
+<<<<<<< HEAD
 	background: black;
+=======
+	background: #778899;
+>>>>>>> branche1
 	text-align: right;
 	padding: 20px;
 	height: 1%;
